@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 8
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- Arfan
 - [Assyifa Khalif] - [2010631170058]
 - [Irfan Maulana] - [2010631170013]
 - [Iqbal Kurniawan] - [2010631170012]
