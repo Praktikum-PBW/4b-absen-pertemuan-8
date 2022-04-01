@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 8
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- Dela Amaliya - 2010631170062
 - [Fajar Athariq] | [2010631170068]
 -[Ardianto Nugroho] | [2010631170056]
 - [Faiz Agil Firmansyah]  [2010631170067]
