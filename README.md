@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 8
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+[Elvin Alan Pratama | 2010631170065 ]
 - [Fadhillah Ramadhan][2010631170066]
 - Dellia Deltania [2010631170063]
 - Dela Amaliya - 2010631170062
